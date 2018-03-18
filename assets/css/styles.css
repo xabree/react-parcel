@@ -1,0 +1,17 @@
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+  color: red;
+  font-size: 30;
+}
+.logo {
+  width: 50;
+  height: 50;
+}
